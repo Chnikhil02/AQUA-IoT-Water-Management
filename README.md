@@ -16,16 +16,6 @@ This project tackles India’s critical water scarcity problem. With rising urba
 - C code logic for billing.
 - Small-scale grey water treatment unit.
 
-## 📑 System Layout
-![System Outline](images/AQUA_Outline.png)
-
-## 📸 Prototype
-![Prototype](images/prototype.jpg)
-![LCD Display](images/lcd_display.jpg)
-![Circuit](images/circuit.jpg)
-
-## 👨‍💻 Code Files
-- `Aqua_flow_waterbilling.ino`: Arduino code for sensor & display.
 
 ## 🌏 Impact
 Encourages sustainability by reducing fresh water demand and reusing grey water — critical for India’s groundwater crisis.
